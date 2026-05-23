@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SCH001",
+    "nama": "Budi Santoso",
+    "perusahaan": "PT Teknologi Maju",
+    "telepon": "081234567890",
+    "email_kantor": "budi@teknologi.com",
+    "sektor_industri": "Teknologi",
+    "skala_perusahaan": "51-200",
+    "waktu": "2026-05-23T10:00",
+    "tujuan": "Diskusi pengadaan unit PC untuk kantor baru.",
+    "produk": ["HP Inc", "PC"],
+    "tipe_jadwal": "sales",
+    "status": "pending",
+    "diajukan_oleh": "S001"
+  },
+  {
+    "id": "SCH002",
+    "nama": "Citra Lestari",
+    "perusahaan": "CV Solusi Digital",
+    "telepon": "081298765432",
+    "email_kantor": "citra@solusidigital.com",
+    "sektor_industri": "Pendidikan",
+    "skala_perusahaan": "1-50",
+    "waktu": "2026-05-24T14:00",
+    "tujuan": "Meeting kemitraan distribusi Poly Studio.",
+    "produk": ["Poly"],
+    "tipe_jadwal": "pribadi",
+    "status": "approved",
+    "diajukan_oleh": "Admin"
+  },
+  {
+    "id": "SCH003",
+    "nama": "Andi Pratama",
+    "perusahaan": "Nusantara Tech",
+    "telepon": "081345678910",
+    "email_kantor": "andi@nusantaratech.id",
+    "sektor_industri": "Keuangan",
+    "skala_perusahaan": "201-500",
+    "waktu": "2026-05-25T11:00",
+    "tujuan": "Review target kuartal dan supply printer.",
+    "produk": ["HP Inc", "Printer"],
+    "tipe_jadwal": "sales",
+    "status": "approved",
+    "diajukan_oleh": "S002"
+  },
+  {
+    "id": "SCH004",
+    "nama": "Pak Yohanes",
+    "perusahaan": "Internal HP",
+    "telepon": "08111222333",
+    "email_kantor": "yohanes@internalhp.com",
+    "sektor_industri": "Teknologi",
+    "skala_perusahaan": "500+",
+    "waktu": "2026-05-26T09:00",
+    "tujuan": "Koordinasi bulanan Q2.",
+    "produk": ["HP Inc"],
+    "tipe_jadwal": "pribadi",
+    "status": "approved",
+    "diajukan_oleh": "Admin"
+  }
+]

@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 150, 214, 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 150, 214, 0.6);
+}
+
+.leaflet-popup-content-wrapper {
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  width: auto !important;
+}
+
+.leaflet-popup-tip {
+  background: #00172D !important;
+}
+
+/* Prevent auto-zoom on iOS by forcing text size to 16px minimum on mobile */
+@media screen and (max-width: 767px) {
+  input, 
+  textarea, 
+  select {
+    font-size: 16px !important;
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Gultom",
+    "email": "hmgultom@gmail.com",
+    "password": "user123",
+    "permissions": {
+      "ringkasan": "Super Admin",
+      "map": "Super Admin",
+      "partners": "Super Admin",
+      "sales": "Super Admin",
+      "transactions": "Super Admin",
+      "products": "Super Admin",
+      "schedule": "Super Admin",
+      "access": "Super Admin"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Siska Saraswati",
+    "email": "siska@gmgconsole.id",
+    "password": "adminpassword",
+    "permissions": {
+      "ringkasan": "Admin",
+      "map": "Admin",
+      "partners": "Admin",
+      "sales": "Admin",
+      "transactions": "Admin",
+      "products": "Admin",
+      "schedule": "Admin",
+      "access": "None"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Agus Subarjo",
+    "email": "agus@gmgconsole.id",
+    "password": "viewerpass",
+    "permissions": {
+      "ringkasan": "Viewer",
+      "map": "Viewer",
+      "partners": "None",
+      "sales": "None",
+      "transactions": "None",
+      "products": "Viewer",
+      "schedule": "None",
+      "access": "None"
+    }
+  }
+]

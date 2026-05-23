@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TRX-001",
+    "tanggal": "2024-05-18",
+    "partner_id": "S001",
+    "items": [
+      {
+        "product_id": "P001",
+        "jumlah_unit": 7,
+        "harga_total": 175000000
+      },
+      {
+        "product_id": "P003",
+        "jumlah_unit": 3,
+        "harga_total": 16500000
+      }
+    ],
+    "total_harga": 191500000,
+    "status": "Selesai",
+    "jenis_pembelian": "Full Payment"
+  },
+  {
+    "id": "TRX-002",
+    "tanggal": "2024-05-20",
+    "partner_id": "D001",
+    "items": [
+      {
+        "product_id": "P002",
+        "jumlah_unit": 5,
+        "harga_total": 225000000
+      }
+    ],
+    "total_harga": 225000000,
+    "status": "Selesai",
+    "jenis_pembelian": "Sewa"
+  },
+  {
+    "id": "TRX-003",
+    "tanggal": "2024-05-21",
+    "partner_id": "E001",
+    "items": [
+      {
+        "product_id": "P006",
+        "jumlah_unit": 2,
+        "harga_total": 64000000
+      }
+    ],
+    "total_harga": 64000000,
+    "status": "Proses",
+    "jenis_pembelian": "Termin"
+  },
+  {
+    "id": "TRX-004",
+    "tanggal": "2024-05-22",
+    "partner_id": "E002",
+    "items": [
+      {
+        "product_id": "P004",
+        "jumlah_unit": 1,
+        "harga_total": 12000000
+      }
+    ],
+    "total_harga": 12000000,
+    "status": "Selesai",
+    "jenis_pembelian": "Full Payment"
+  },
+  {
+    "id": "TRX-005",
+    "tanggal": "2024-05-22",
+    "partner_id": "S002",
+    "items": [
+      {
+        "product_id": "P005",
+        "jumlah_unit": 20,
+        "harga_total": 70000000
+      }
+    ],
+    "total_harga": 70000000,
+    "status": "Selesai",
+    "jenis_pembelian": "Trial"
+  }
+]

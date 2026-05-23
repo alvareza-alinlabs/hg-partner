@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/gambar/logo.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Beranda</title>
+    <meta property="og:title" content="HG Partner" />
+    <meta property="og:description" content="Portal Internal HG Partner" />
+    <meta property="og:image" content="/gambar/metatag.webp" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="HG Partner" />
+    <meta name="twitter:description" content="Portal Internal HG Partner" />
+    <meta name="twitter:image" content="/gambar/metatag.webp" />
+    <link rel="manifest" href="/manifest.json" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(error => {
+             console.warn('SW registration failed:', error);
+          });
+        });
+      }
+    </script>
+  </body>
+</html>
+

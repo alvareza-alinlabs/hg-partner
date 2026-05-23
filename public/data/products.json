@@ -1,0 +1,148 @@
+[
+  {
+    "id": "P001",
+    "nama": "HP EliteBook 840 G10",
+    "kategori": "Laptop",
+    "brand": "HP Inc",
+    "target_bulanan": 150,
+    "tercapai": 125,
+    "harga_satuan": 25000000,
+    "harga_normal": 27500000,
+    "harga_promo": 25000000,
+    "deskripsi": "Laptop bisnis premium ringan dan tipis, ideal untuk para profesional eksekutif yang sering bepergian dengan mobilitas tinggi.",
+    "spesifikasi": [
+      "Intel Core i7 Gen 13th",
+      "16GB LPDDR5 RAM",
+      "512GB PCIe NVMe SSD",
+      "14.0\" WUXGA Display",
+      "Intel Iris Xe Graphics",
+      "Windows 11 Pro"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/00172D?text=HP+EliteBook+Front",
+      "https://placehold.co/1000x1000/dddddd/00172D?text=HP+EliteBook+Side",
+      "https://placehold.co/1000x1000/cccccc/00172D?text=HP+EliteBook+Back"
+    ]
+  },
+  {
+    "id": "P002",
+    "nama": "Poly Studio X50",
+    "kategori": "Video Bar",
+    "brand": "Poly",
+    "target_bulanan": 40,
+    "tercapai": 32,
+    "harga_satuan": 45000000,
+    "harga_normal": 55000000,
+    "harga_promo": 45000000,
+    "deskripsi": "Sistem konferensi video all-in-one yang ideal untuk ruangan sedang. Dilengkapi dengan tracking kamera cerdas dan audio berkualitas stereo tingkat lanjut.",
+    "spesifikasi": [
+      "4K UltraHD Video Camera",
+      "Automatic Framing & Tracking",
+      "Next-gen microphone array",
+      "Dual display support",
+      "Built-in cloud video apps"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/EA580C?text=Poly+Studio+X50",
+      "https://placehold.co/1000x1000/dddddd/EA580C?text=Poly+Studio+Angle",
+      "https://placehold.co/1000x1000/cccccc/EA580C?text=Poly+Studio+Close-up"
+    ]
+  },
+  {
+    "id": "P003",
+    "nama": "HP LaserJet Pro MFP",
+    "kategori": "Printer",
+    "brand": "HP Inc",
+    "target_bulanan": 80,
+    "tercapai": 45,
+    "harga_satuan": 5500000,
+    "harga_normal": 6200000,
+    "harga_promo": 5500000,
+    "deskripsi": "Printer laser multifungsi yang menyediakan solusi lengkap cetak, pindai, dan fotokopi dengan efisiensi tingkat korporat.",
+    "spesifikasi": [
+      "Cetak Cepat hingga 40 ppm",
+      "Auto Duplex Printing",
+      "High-yield toner cartidge",
+      "Koneksi Jaringan/Gigabit LAN",
+      "Layar Sentuh Interaktif"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/00172D?text=HP+LaserJet+Pro",
+      "https://placehold.co/1000x1000/dddddd/00172D?text=LaserJet+Panel",
+      "https://placehold.co/1000x1000/cccccc/00172D?text=LaserJet+Tray"
+    ]
+  },
+  {
+    "id": "P004",
+    "nama": "HP Pro Tower 400 G9",
+    "kategori": "PC",
+    "brand": "HP Inc",
+    "target_bulanan": 120,
+    "tercapai": 110,
+    "harga_satuan": 12000000,
+    "harga_normal": 13500000,
+    "harga_promo": 12000000,
+    "deskripsi": "Komputer desktop tangguh dengan kemampuan ekspansi yang sangat baik untuk menyesuaikan dengan kebutuhan bisnis Anda.",
+    "spesifikasi": [
+      "Intel Core i5 Gen 12th",
+      "8GB DDR4 RAM",
+      "256GB SSD + 1TB HDD",
+      "Sistem Ekstensi Port Ganda",
+      "Keamanan Bisnis HP Wolf"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/00172D?text=HP+Pro+Tower",
+      "https://placehold.co/1000x1000/dddddd/00172D?text=Pro+Tower+Interior",
+      "https://placehold.co/1000x1000/cccccc/00172D?text=Pro+Tower+Ports"
+    ]
+  },
+  {
+    "id": "P005",
+    "nama": "Poly Voyager Focus 2",
+    "kategori": "Headset",
+    "brand": "Poly",
+    "target_bulanan": 200,
+    "tercapai": 185,
+    "harga_satuan": 3500000,
+    "harga_normal": 4200000,
+    "harga_promo": 3500000,
+    "deskripsi": "Headset Bluetooth stereo cerdas dengan teknologi peredam bising hibrida untuk panggilan jernih di mana pun Anda berada.",
+    "spesifikasi": [
+      "Advanced Active Noise Canceling (ANC)",
+      "Acoustic Fence Technology",
+      "Up to 19 hours talk time",
+      "Sensor Cerdas Otomatis",
+      "Konektivitas Multititik Bluetooth"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/EA580C?text=Poly+Voyager",
+      "https://placehold.co/1000x1000/dddddd/EA580C?text=Voyager+Profile",
+      "https://placehold.co/1000x1000/cccccc/EA580C?text=Voyager+Case"
+    ]
+  },
+  {
+    "id": "P006",
+    "nama": "HP ZBook Firefly",
+    "kategori": "Workstation",
+    "brand": "HP Inc",
+    "target_bulanan": 50,
+    "tercapai": 48,
+    "harga_satuan": 32000000,
+    "harga_normal": 35000000,
+    "harga_promo": 32000000,
+    "deskripsi": "Laptop workstation tingkat entri yang menghadirkan kinerja pro-level untuk para insinyur dan pembuat konten profesional.",
+    "spesifikasi": [
+      "Intel Core i7 Gen 13th vPro",
+      "NVIDIA RTX A500 Laptop GPU",
+      "32GB DDR5 RAM",
+      "1TB PCIe Gen4 SSD",
+      "Layar Warna Presisi DreamColor",
+      "Sertifikasi ISV Penuh"
+    ],
+    "images": [
+      "https://placehold.co/1000x1000/eeeeee/00172D?text=HP+ZBook",
+      "https://placehold.co/1000x1000/dddddd/00172D?text=ZBook+Keyboard",
+      "https://placehold.co/1000x1000/cccccc/00172D?text=ZBook+Display"
+    ]
+  }
+]

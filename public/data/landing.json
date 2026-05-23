@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title_black": "Solusi Komputasi",
+    "title_blue": "Premium Enterprise.",
+    "subtitle": "Akselerasi transformasi digital bisnis Anda melalui ekosistem perangkat korporat premium dari HP & Poly.",
+    "button_primary": "Login Partner",
+    "button_secondary": "Eksplorasi Katalog"
+  },
+  "corporate_values": {
+    "title": "Solusi Enterprise Terintegrasi",
+    "subtitle": "Komitmen penuh kami dalam menyajikan ekosistem perangkat keras kelas atas dan layanan kolaborasi modern bagi korporasi di seluruh Indonesia.",
+    "stats": [
+      {
+        "label": "Distribusi Unit Aktif",
+        "key": "volumeUnit"
+      },
+      {
+        "label": "Ruang Kolaborasi (Poly)",
+        "key": "roomCollab"
+      },
+      {
+        "label": "Tingkat Kesuksesan Approval",
+        "key": "tenderSuccess"
+      }
+    ]
+  },
+  "footer": {
+    "description": "Enterprise Solutions Provider. Eksekusi presisi untuk transformasi digital masa depan."
+  }
+}
